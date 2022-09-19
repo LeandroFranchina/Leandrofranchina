@@ -35,7 +35,7 @@ Aquí se evalúa cuáles son las acciones donde se podría realizar una inversi�
 5) Proyecto final elaborado grupalmente, con la colaboración de Mauro Perez, Marcos Audisio y Juan Cruz Almirón.
 En este trabajo se elaboró un ETL para la compañía brasilera Olist, diseñando un Data Warehouse on premise y otro on cloud en Microsoft Azure.
 En una posterior instancia, se pusieron en producción varios modelos de machine learning, con el objetivo de inferir el nivel de ventas del próximo semestre. Para ello, se realizó un abordaje desde el marco de las series de tiempo y se alcanzó el mejor modelo con el algoritmo Prophet.
-En la etapa final de Data Analysis, y posterior a un exhaustivo estudio del negocio y el mercado, se seleccionaron una serie de KPI's y se elaboraron diversos dashboards utilizando, para este fin, Power BI.
+En la etapa final de Data Analytics, y posterior a un exhaustivo estudio del negocio y el mercado, se seleccionaron una serie de KPI's y se elaboraron diversos dashboards utilizando, para este fin, Power BI.
 
 <!---
 Leandrofranchina/Leandrofranchina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
