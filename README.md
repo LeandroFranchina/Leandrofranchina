@@ -1,4 +1,4 @@
-👋 Hola, soy @Leandrofranchina
+👋 Hola, soy @LeandroFranchina
 
 📫 En esta página podrán encontrar todos mis proyectos de Data Science.
 
