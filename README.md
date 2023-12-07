@@ -26,7 +26,7 @@ Este proyecto se conforma de las siguientes etapas:
 
 📚 HENRY :
 
-3) Aquí se diseñó un pipline en Pyhton, donde se automatiza todo el proceso de normalización de las tablas de una empresa, destacando clientes, ventas, sucursales, localidades, vendedores, entre otras. En esta instancia, se contemplaron tanto las cargas iniciales como las incrementales.
+3) Aquí se diseñó un pipeline en Pyhton, donde se automatiza todo el proceso de normalización de las tablas de una empresa, destacando clientes, ventas, sucursales, localidades, vendedores, entre otras. En esta instancia, se contemplaron tanto las cargas iniciales como las incrementales.
 Por otra parte, se crearon KPI's solicitados y se realizó una recomendación al área de datos con la localidad en la cual se debería abrir una sucursal.
 
 4) Proyecto del rubro financiero donde se crea un reporte de calidad de datos, informe y visualizaciones del índice s&p500. 
